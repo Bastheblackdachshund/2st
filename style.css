@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(255, 0, 0);
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+} 
+
+#introtext{
+    color: blueviolet;
+}
+
+.highlight{
+    color: bisque;
+    font-weight: 200;
+}
+
+#introcontainer{
+    width: 470px;
+    float: left;
+}
+
+.reset{
+    clear: both;
+}
+
+#maincontainer{
+    width: 850px;
+    float: left;
+}
+
+#contactcontainer{
+    width: 470px;
+    float: left;
+}
+
+#profilecontainer{
+    width: 200px;
+    float: left;
+}
