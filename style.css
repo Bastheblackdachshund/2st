@@ -1,12 +1,13 @@
 body{
-    background-color: rgb(255, 0, 0);
-    margin: 0px;
+    background-color: rgb(95, 95, 95);
+    margin: 0px 190px 0px 190px;
     font-family: Arial, Helvetica, sans-serif;
+
     
 } 
 
 #introtext{
-    color: blueviolet;
+    color: rgb(125, 98, 150);
 }
 
 .highlight{
@@ -14,17 +15,14 @@ body{
     font-weight: 200;
 }
 
-#introcontainer{
-    width: 470px;
-    float: left;
-}
+
 
 .reset{
     clear: both;
 }
 
 #maincontainer{
-    width: 850px;
+    width: 950px;
     float: left;
 }
 
@@ -34,6 +32,12 @@ body{
 }
 
 #profilecontainer{
-    width: 200px;
+    width: 240px;
+    float: left;
+}
+
+#introcontainer{
+    width:240px ;
+    height: 400px;
     float: left;
 }
