@@ -1,17 +1,30 @@
 body{
-    background-color: rgb(95, 95, 95);
+    background-color: #8d01a99d;
     margin: 0px 190px 0px 190px;
     font-family: Arial, Helvetica, sans-serif;
 
     
 } 
 
-#introtext{
-    color: rgb(125, 98, 150);
+#navigation {
+    height: 30px;
+    margin: 0px 0px 10px 0px;
+}
+
+#navigation a {
+    padding: 10px;
+    background: #8d01a9;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+#navigation a:hover {
+    background: #2ac619ae;
 }
 
 .highlight{
-    color: bisque;
+    color: #8d01a9;
     font-weight: 200;
 }
 
@@ -22,22 +35,23 @@ body{
 }
 
 #maincontainer{
-    width: 965px;
+    width: 910px;
     float: left;
 }
 
 #contactcontainer{
-    width: 470px;
+    width: 370px;
     float: left;
 }
 
 #profilecontainer{
-    width: 240px;
+    width: 230px;
     float: left;
+    margin: 0px 0px 0px 10px;
 }
 
 #introcontainer{
-    width:255px ;
+    width: 300px;
     height: 400px;
     float: left;
 }
