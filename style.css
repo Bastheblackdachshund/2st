@@ -11,6 +11,25 @@ body{
     margin: 0px 0px 10px 0px;
 }
 
+#navigation2 {
+    height: 30px;
+    margin: 0px 0px 10px 0px;
+}
+
+#navigation2 a{
+    padding: 10px;
+    background: rgb(000, 128, 128);
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+#navigation2 a:hover {
+    background: #695e00ae;
+}
+
+
+
 #navigation a {
     padding: 10px;
     background: #8d01a9;
